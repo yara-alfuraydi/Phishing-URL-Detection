@@ -35,6 +35,4 @@ Random Forest achieved the best overall performance with 94.36% accuracy and 95.
 * Phishing_URL_Preprocessing.ipynb
 * Phishing_URL_Detection_Report.pdf
 
-## Technologies:
-Python, Pandas, NumPy, Scikit-learn, TensorFlow, Keras
 
